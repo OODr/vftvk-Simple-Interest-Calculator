@@ -1,4 +1,14 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+/*Edit the body of the html document*/
+body {background-color:black;font-family:arial;color:white}
+/*Edit Header 1 of the html document*/
+h1{color:grey;font-family:verdana}
+/*Edit the mandiv div class of html document*/
+.maindiv {
+    background-color:white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
