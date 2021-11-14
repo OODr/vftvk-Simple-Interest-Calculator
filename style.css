@@ -6,7 +6,7 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color: black;
-    width: 600px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
     margin-left: auto;
@@ -15,7 +15,9 @@ h1{color:grey;font-family:verdana}
 /*Create a class to align the inner items*/
 .innerdiv{
     width: 100%;
-    text-align: center;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
 }
 /*Edit the footer to align properly*/
 footer{
