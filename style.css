@@ -6,9 +6,18 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
     margin-left: auto;
     margin-right: auto;
 }
+.innerdiv{
+    margin-left: auto;
+    margin-right: auto;
+}    
+footer{
+    padding-top: 30px;
+}    
+    
+    
