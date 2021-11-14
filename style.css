@@ -12,12 +12,12 @@ h1{color:grey;font-family:verdana}
     margin-left: auto;
     margin-right: auto;
 }
-//Create a class to align the inner items
+/*Create a class to align the inner items*/
 .innerdiv{
     width: 100%;
     text-align: center;
 }
-//Edit the footer to align properly
+/*Edit the footer to align properly*/
 footer{
     padding-top: 30px;
 }    
