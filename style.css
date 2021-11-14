@@ -18,10 +18,11 @@ h1{color:grey;font-family:verdana}
     text-align: left;
     margin-left: auto;
     margin-right: auto;
+    line-height: 150%;
 }
 /*Edit the footer to align properly*/
 footer{
-    padding-top: 30px;
+    padding-top: 20px;
 }    
     
     
